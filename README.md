@@ -8,7 +8,7 @@ EmuReady Lite brings the EmuReady compatibility database to Android with a touch
 >
 > This app is a **free stable version** for people who want the comfort of EmuReady on their phone without the latest experimental features. Selected capabilities that graduate from beta will arrive in **EmuReady Lite**, while premium early-access tooling remains in **EmuReady Beta** to keep the project sustainable.
 >
-> ![EmuReady Lite feature preview](https://github.com/user-attachments/assets/c44264ff-ecc6-4e8b-a855-cc035bdf241a)
+> <img width="1192" height="799" alt="image" src="https://github.com/user-attachments/assets/65cc9385-f749-4ed6-b89c-776416cc8d53" />
 >
 > **Note:** EmuReady Lite does _not_ include early-access features such as the Setup Wizard or the Launch Tool that can boot games directly into supported emulators like Eden and GameNative.
 
