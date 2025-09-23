@@ -2,7 +2,7 @@
 
 ## Overview
 
-EmuReady Lite brings the EmuReady compatibility database to Android with a touch-first experience. Browse handheld and PC compatibility reports, follow trending hardware, and keep your watchlist synced while you’re away from your workstation.
+EmuReady Lite brings the EmuReady compatibility database to Android with a touch-first experience. Browse handheld and PC compatibility reports, follow trending reports and emulators, and keep your watchlist synced while you’re away from your PC.
 
 > **EmuReady Lite is available for everyone to sideload and on its way to be released for free on the Google Play Store.**
 >
