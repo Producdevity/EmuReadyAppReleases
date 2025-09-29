@@ -1,5 +1,7 @@
 # EmuReady Lite — Android App Releases
 
+[![GitHub downloads](https://img.shields.io/github/downloads/Producdevity/EmuReadyLite/total.svg)](https://github.com/Producdevity/EmuReadyLite/releases)
+
 ## Overview
 
 EmuReady Lite brings the EmuReady compatibility database to Android with a touch-first experience. Browse handheld and PC compatibility reports, follow trending reports and emulators, and keep your watchlist synced while you’re away from your PC.
