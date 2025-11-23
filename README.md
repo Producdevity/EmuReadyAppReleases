@@ -34,7 +34,8 @@ Download stable builds from this project’s [Releases](./releases) page or from
 
 ## Links
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.producdevity.emureadyapp&pcampaignid=web_share)
+- [EmuReady Beta Google Play Store](https://play.google.com/store/apps/details?id=com.producdevity.emureadyapp&pcampaignid=web_share)
+- [EmuReady Google Play Store](https://play.google.com/store/apps/details?id=com.producdevity.emureadylite&pcampaignid=web_share)
 - [EmuReady](https://www.emuready.com)
 - [GitHub](https://github.com/Producdevity/EmuReady)
 - [Discord](https://discord.gg/CYhCzApXav)
